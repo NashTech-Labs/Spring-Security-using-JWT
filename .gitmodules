@@ -1,0 +1,3 @@
+[submodule "java/Spring-Security-using-JWT"]
+	path = java/Spring-Security-using-JWT
+	url = https://github.com/knoldus/Spring-Security-using-JWT
